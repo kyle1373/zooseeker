@@ -1,7 +1,7 @@
 # zooseeker
 This is an Android mobile application which allows the user to search for an animal in the San Diego Zoo database and adds it to a route plan. The user is then able to start a route based on the animals they have chosen, in which the app generates an efficient route using a greedy dijsktra's algorithm on all selected nodes.
 
-#Demo
+# Demo
 ![image](https://user-images.githubusercontent.com/59634395/178122225-6dd3c077-1bce-43bf-93e9-38962d263540.png)
 When the user opens the app, it should take it to this screen. Then, the user can type anything in the search bar to find an animal in the database.
 ![image](https://user-images.githubusercontent.com/59634395/178122254-a48abccd-fbfb-4942-b540-0b8eb1deabf6.png)
