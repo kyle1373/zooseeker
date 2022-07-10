@@ -4,6 +4,11 @@ This is an Android mobile application which allows the user to search for an ani
 Click play on the animation below to see a demo! <br />
 <br />
 ![](https://user-images.githubusercontent.com/59634395/178125283-9456eadc-b10e-489b-887f-997d9f19450c.gif)
+# Map
+Each exhibit has a real GPS locations associated with it, and the distances between the exhibits are all in feet. This is how an efficient route is generated.  <br />
+ <br />
+![image](https://user-images.githubusercontent.com/59634395/178126427-e3ab2a47-cbae-44f7-9068-eba5c4c4e0da.png)
+
 # Specifications
 ![image](https://user-images.githubusercontent.com/59634395/178122225-6dd3c077-1bce-43bf-93e9-38962d263540.png)<br />
 <br />
