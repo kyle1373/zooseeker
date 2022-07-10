@@ -1,5 +1,5 @@
 # Introduction
-This is an Android mobile application which allows the user to search for an animal in the San Diego Zoo database and adds it to a plan list. The user is then able to start a route based on the animals they have chosen, in which the app generates an efficient route using a greedy dijsktra's algorithm on all selected nodes. <br />
+Zooseeker is an Android mobile application which allows the user to search for an animal in the San Diego Zoo database to add it to a plan list. The user is then able to generate an efficient route for them to visit each animal exhibit using a greedy dijsktra's algorithm on all selected nodes. If the user's GPS location is closer to another exhibit, it will prompt the user to reroute from that closest exhibit for them to not get lost. <br />
 # Demo
 Click play on the animation below to see a demo! <br />
 <br />
